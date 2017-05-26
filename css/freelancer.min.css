@@ -3,6 +3,11 @@
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
+/*!
+ * Start Bootstrap - Freelancer v3.3.7+1 (http://startbootstrap.com/template-overviews/freelancer)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
 body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
@@ -18,7 +23,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #18BC9C;
+  color: #E4E4E4;
 }
 h1,
 h2,
@@ -244,7 +249,7 @@ section.success {
   }
 }
 
-/* formaçao section */
+/* formaÃ§ao section */
 
 
 #educ .educ-item {
@@ -363,9 +368,9 @@ footer .footer-below {
   background-color: #565656;
 }
 .btn-outline {
-  color: white;
+  color: black;
   font-size: 20px;
-  border: solid 2px white;
+  border: solid 2px #D17570;
   background: transparent;
   transition: all 0.3s ease-in-out;
   margin-top: 15px;
@@ -374,7 +379,7 @@ footer .footer-below {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-  color: #18BC9C;
+  color: #565656;
   background: white;
   border: solid 2px white;
 }
@@ -421,9 +426,9 @@ fieldset[disabled] .btn-primary.active {
   background-color: white;
 }
 .btn-success {
-  color: white;
+  color: #565656;
   background-color: #e4e4e4;
-  border-color: #18BC9C;
+  border-color: #565656;
   font-weight: 700;
 }
 .btn-success:hover,
