@@ -23,7 +23,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #E4E4E4;
+  color: #18BC9C;
 }
 h1,
 h2,
@@ -55,11 +55,11 @@ hr.star-primary:after {
   padding: 0 0.25em;
 }
 hr.star-light {
-  border-color: #D17570;
+  border-color: white;
 }
 hr.star-light:after {
-  background-color: #E4E4E4;
-  color: #D17570;
+  background-color: #18BC9C;
+  color: white;
 }
 hr.star-primary {
   border-color: #2C3E50;
@@ -73,8 +73,8 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: #E4E4E4;
-  color: #A9CC70;
+  background: #18BC9C;
+  color: white;
 }
 header .container {
   padding-top: 100px;
@@ -108,7 +108,7 @@ header .intro-text .skills {
   }
 }
 .navbar-custom {
-  background: #565656;
+  background: #2C3E50;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -127,24 +127,24 @@ header .intro-text .skills {
   letter-spacing: 1px;
 }
 .navbar-custom .navbar-nav li a {
-  color: #E4E4E4;
+  color: white;
 }
 .navbar-custom .navbar-nav li a:hover {
-  color: #E4E4E4;
+  color: #18BC9C;
 }
 .navbar-custom .navbar-nav li a:focus,
 .navbar-custom .navbar-nav li a:active {
   color: white;
 }
 .navbar-custom .navbar-nav li.active a {
-  color: #565656;
-  background: #E4E4E4;
+  color: white;
+  background: #18BC9C;
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
   color: white;
-  background: #E4E4E4;
+  background: #18BC9C;
 }
 .navbar-custom .navbar-toggle {
   color: white;
@@ -154,9 +154,9 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #E4E4E4;
+  background-color: #18BC9C;
   color: white;
-  border-color: #E4E4E4;
+  border-color: #18BC9C;
 }
 @media (min-width: 768px) {
   .navbar-custom {
@@ -186,8 +186,8 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #E4E4E4;
-  color: #565656;
+  background: #18BC9C;
+  color: white;
 }
 @media (max-width: 767px) {
   section {
@@ -249,7 +249,7 @@ section.success {
   }
 }
 
-/* formaÃ§ao section */
+/* formaçao section */
 
 
 #educ .educ-item {
@@ -345,32 +345,32 @@ section.success {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #e4e4e4;
+  color: #18BC9C;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
 }
 footer {
-  color: #b3b3b3;
+  color: white;
 }
 footer h3 {
   margin-bottom: 30px;
 }
 footer .footer-above {
   padding-top: 50px;
-  background-color: #e4e4e4;
+  background-color: #2C3E50;
 }
 footer .footer-col {
   margin-bottom: 50px;
 }
 footer .footer-below {
   padding: 25px 0;
-  background-color: #565656;
+  background-color: #233140;
 }
 .btn-outline {
-  color: black;
+  color: white;
   font-size: 20px;
-  border: solid 2px #D17570;
+  border: solid 2px white;
   background: transparent;
   transition: all 0.3s ease-in-out;
   margin-top: 15px;
@@ -379,7 +379,7 @@ footer .footer-below {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-  color: #565656;
+  color: #18BC9C;
   background: white;
   border: solid 2px white;
 }
@@ -426,9 +426,9 @@ fieldset[disabled] .btn-primary.active {
   background-color: white;
 }
 .btn-success {
-  color: #565656;
-  background-color: #e4e4e4;
-  border-color: #565656;
+  color: white;
+  background-color: #18BC9C;
+  border-color: #18BC9C;
   font-weight: 700;
 }
 .btn-success:hover,
